@@ -6,24 +6,44 @@
         <priority>1.0</priority>
     </url>
 
-    <url>
-        <loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/categories.html</loc>
-        <priority>0.8</priority>
-    </url>
+    <!-- Main Categories -->
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/lub_companies.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/categories.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/powertools.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/castor.html</loc></url>
 
-    <url>
-        <loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/lub_companies.html</loc>
-        <priority>0.8</priority>
-    </url>
+    <!-- Lubricant Brands -->
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/EMA.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/HP.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/MAK.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/shell.html</loc></url>
 
-    <url>
-        <loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/powertools.html</loc>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/castor.html</loc>
-        <priority>0.8</priority>
-    </url>
+    <!-- Hardware Categories -->
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/allen_keys.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/chisels.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/clamps.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/cutters.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/cutting_blades.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/gear_pullers.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/hacksaw_blades.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/hammers.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/magnetic_products.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/mini_pliers.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/non_sparking_tools.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/pipe_wrenches.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/pliers.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/punches.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/screwdrivers_bits.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/screwdrivers_testers.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/sockets.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/sockets_accessories.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/sockets_sets.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/spanner.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/spanners.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/spirit_level.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/tools_trolley.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/toolsets.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/torque_wrench.html</loc></url>
+    <url><loc>https://mustafasamplewala.github.io/nobleenterprise.github.io/wheel_spanners.html</loc></url>
 
 </urlset>
